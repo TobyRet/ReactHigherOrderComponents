@@ -1,5 +1,5 @@
 {
-  "name": "Higher Order Components Practice",
+  "name": "higher-order-components-practice",
   "version": "1.0.0",
   "description": "Practice creating higher order components using a simple client side authentication process",
   "main": "index.js",
